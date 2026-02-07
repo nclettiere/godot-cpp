@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/skadi/dev/godot-cpp/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
